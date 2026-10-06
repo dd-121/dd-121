@@ -3,7 +3,7 @@
 
 [Brief Introduction]
 
-I am a first year student studying at the university of birmingham with a profound interest in technology and a passion for solving complex problems.
+I am a second year student studying at the university of birmingham with a profound interest in technology and a passion for solving complex problems.
 
 ## Objective
 
