@@ -6,7 +6,6 @@
 I am a first year student studying at the university of birmingham with a profound interest in technology and a passion for solving complex problems.
 
 ## Objective
-[Provide Objective]
 
 From starting off at GCSE, my journey in computer science has led me to develop a strong interest in areas such as data analytics, artificial intelligence, and software engineering. I enjoy exploring how computing can be used to extract meaningful insights and build intelligent systems, and I’m excited to continue developing my skills and discovering where my passions lie.
 
